@@ -1,4 +1,4 @@
-Hygiene/health using hand gesture recognition smart band
+Hygiene/health using hand gesture recognition smart band Logger
 =
 Pusan Nat'i Univ Department of CSE
 ---
