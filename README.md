@@ -1,5 +1,7 @@
-#Hygiene/health using hand gesture recognition smart band
-##Pusan Nat'i Univ Department of CSE
+Hygiene/health using hand gesture recognition smart band
+=
+Pusan Nat'i Univ Department of CSE
+---
 
 Team number:37
 
