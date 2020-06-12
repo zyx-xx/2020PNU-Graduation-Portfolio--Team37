@@ -1,4 +1,4 @@
-Smart band
+Hygiene/health using hand gesture recognition smart band
 =
 Team number:37
 
